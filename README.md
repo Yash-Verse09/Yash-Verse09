@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Yash</div>
 
 <h2 align="center">
-🚀 Aspiring Software Developer | BCA Final Year Student | Java | Full Stack Development | Machine Learning
+🚀 Aspiring Software Developer | BCA Final Year Student | Java | Full Stack Development 
 </h2>
 
 <p align="center">
@@ -31,7 +31,7 @@ Currently focusing on:
 ⭐ Data Structures & Algorithms  
 ⭐ Full Stack Web Development  
 ⭐ Backend Development  
-⭐ Machine Learning Applications  
+
 
 I believe in **learning by building real-world projects** and continuously improving my problem-solving skills.
 
@@ -107,9 +107,7 @@ A Machine Learning based web application that analyzes movie reviews and predict
 `Python` `Flask` `NLP` `Scikit-learn` `HTML` `CSS`
 
 
-🔗 **Live Demo:** YOUR_LIVE_LINK
-
-🔗 **GitHub Repository:** YOUR_REPO_LINK
+🔗 **Live Demo:**  https://fulfilling-commitment-production-bad8.up.railway.app/
 
 
 
@@ -162,8 +160,6 @@ An AI-powered quiz management platform designed to create interactive quizzes.
 ⭐ C Score : 611+
 
 🌎 Global Rank : #24493
-
-🇮🇳 India Rank : #22527
 
 🏫 College Rank : #8
 
