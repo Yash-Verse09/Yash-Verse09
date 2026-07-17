@@ -80,7 +80,7 @@ A machine learning based web application that analyzes movie reviews and predict
 - Data visualization of review trends
 - Deployed and publicly accessible
 
-`Live Demo:` *add link here*
+🔗 **Live Demo:** [yentiflix.example.com](#) *(replace with your actual deployment link)*
 
 </td>
 <td width="50%" valign="top">
@@ -122,36 +122,17 @@ An interactive quiz platform that generates and manages quizzes using AI, with a
 
 <div align="center">
 
+*Tracking my problem-solving journey and competitive programming progress through Codolio.*
+
+<br/>
+
 <img src="https://img.shields.io/badge/Codolio%20Score-611%2B-0e75b6?style=for-the-badge&labelColor=0F2027" />
 <img src="https://img.shields.io/badge/Global%20Rank-%2324493-0e75b6?style=for-the-badge&labelColor=0F2027" />
 <img src="https://img.shields.io/badge/College%20Rank-%238-0e75b6?style=for-the-badge&labelColor=0F2027" />
 
 <br/><br/>
 
-<!--
-  Codolio does not currently expose a public embeddable stats/graph API.
-  The image below is a placeholder card — replace the src with a Codolio-hosted
-  chart/export image (or a screenshot you upload to this repo) once available.
-<br/>
-
 **[View Full Codolio Profile →](https://codolio.com/profile/yashg1209)**
-
-</div>
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashg1209&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yashg1209&theme=dark&hide_border=true&background=0F2027&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashg1209&layout=compact&theme=dark&hide_border=true&bg_color=0F2027&title_color=58A6FF&text_color=C9D1D9" height="165"/>
-
-<br/>
 
 </div>
 
