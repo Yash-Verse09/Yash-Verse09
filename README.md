@@ -16,7 +16,7 @@
 
 ### 👋 Introduction
 
-I'm **Yash**, a final-year **BCA student at ITM University, Gwalior**, working toward becoming a **Software Developer** with a focus on **Java** and **Full Stack Development**. I enjoy building practical, real-world applications — from ML-powered web apps to full-stack platforms — and I'm continuously strengthening my foundation in core CS concepts and modern development tools.
+I'm **Yash**, a final-year **BCA student at ITM University, Gwalior**, passionate about becoming a **Software Developer** with expertise in **Java** and **Full Stack Development**. I enjoy building real-world applications, solving problems, and continuously improving my knowledge of core Computer Science concepts and modern development technologies.
 
 ---
 
@@ -58,8 +58,11 @@ I'm **Yash**, a final-year **BCA student at ITM University, Gwalior**, working t
 
 **Core CS Concepts**
 
-`Data Structures & Algorithms` &nbsp;•&nbsp; `Object-Oriented Programming` &nbsp;•&nbsp; `DBMS` &nbsp;•&nbsp; `Operating Systems` &nbsp;•&nbsp; `Computer Networks`
-
+![DSA](https://img.shields.io/badge/DSA-203A43?style=for-the-badge)
+![OOPs](https://img.shields.io/badge/OOPs-203A43?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-203A43?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20System-203A43?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer%20Networks-203A43?style=for-the-badge)
 ---
 
 ### 🚀 Featured Projects
