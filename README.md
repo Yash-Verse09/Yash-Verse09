@@ -1,25 +1,31 @@
 # <div align="center">Hi 👋, I'm Yash</div>
 
-<h3 align="center">
-🚀 Aspiring Software Developer | BCA Final Year Student | Java | Full Stack | Machine Learning
-</h3>
+<h2 align="center">
+🚀 Aspiring Software Developer | BCA Final Year Student | Java | Full Stack Development | Machine Learning
+</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+Building scalable applications, solving real-world problems and continuously improving my development skills.
 </p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 
 ---
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284126-9c6c6a4f-2f1b-4d2f-9a2f-5f7e1d5e4b8c.gif">
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284126-9c6c6a4f-2f1b-4d2f-9a2f-5f7e1d5e4b8c.gif">
 
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hello! I'm **Yash**, a BCA Final Year Student at **ITM University, Gwalior**.
+Hello! I'm **Yash**, a **BCA Final Year Student at ITM University, Gwalior** and an aspiring Software Developer.
 
-I am an aspiring Software Developer passionate about building scalable applications, solving problems, and exploring modern technologies.
+I am passionate about designing and developing software solutions using modern technologies. I enjoy building projects, solving programming problems and exploring new areas of technology.
 
-I enjoy working with:
+Currently focusing on:
 
 ⭐ Java Development  
 ⭐ Data Structures & Algorithms  
@@ -27,8 +33,7 @@ I enjoy working with:
 ⭐ Backend Development  
 ⭐ Machine Learning Applications  
 
-
-Currently improving my skills by building real-world projects and practicing problem solving.
+I believe in **learning by building real-world projects** and continuously improving my problem-solving skills.
 
 
 ---
@@ -84,44 +89,64 @@ Currently improving my skills by building real-world projects and practicing pro
 # 🚀 Featured Projects
 
 
-## 🎬 YentiFlix - Movie Review Analyzer ⭐⭐⭐⭐⭐
+## 🎬 YentiFlix - Movie Review Analyzer ⭐
 
-Machine Learning based movie review analysis application that predicts whether a review is Positive or Negative.
+A Machine Learning based web application that analyzes movie reviews and predicts sentiment using NLP techniques.
 
-### Tech Stack:
+### 🚀 Features
+
+✅ Positive / Negative Sentiment Prediction  
+✅ Machine Learning Model Integration  
+✅ Movie Review Analysis  
+✅ Data Visualization Dashboard  
+✅ Deployed Web Application  
+
+
+### 🛠 Tech Stack
+
 `Python` `Flask` `NLP` `Scikit-learn` `HTML` `CSS`
 
-### Features:
-⭐ Sentiment Analysis  
-⭐ ML Model Integration  
-⭐ Data Visualization  
-⭐ Web Deployment  
+
+🔗 **Live Demo:** YOUR_LIVE_LINK
+
+🔗 **GitHub Repository:** YOUR_REPO_LINK
+
 
 
 ---
 
-## 📝 Quizify - AI Powered Quiz Platform ⭐⭐⭐⭐
+## 📝 Quizify - AI Powered Quiz Platform ⭐
 
-AI based quiz management platform for creating and managing quizzes.
+An AI-powered quiz management platform designed to create interactive quizzes.
 
-### Tech Stack:
+### Features
+
+✅ AI Generated Questions  
+✅ Quiz Management  
+✅ User Interaction System  
+
+
+### Tech Stack
+
 `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Gemini API`
 
 
+
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 Certifications & Achievements
 
 
-🥇 NPTEL Java Certification (Top 5%)  
+🥇 NPTEL Java Certification (Top 5%)
 
-🐍 NPTEL Python Certification (Elite)  
+🐍 NPTEL Python Certification (Elite)
 
-🌐 Google Student Ambassador Program  
+🌐 Google Student Ambassador Program
 
-🤖 AICTE Google for Developers AI/ML Virtual Internship  
+🤖 AICTE Google for Developers AI/ML Virtual Internship
 
-🏆 IIT Roorkee Changethon Participant  
+🏆 IIT Roorkee Changethon Participant
+
 
 
 ---
@@ -129,54 +154,44 @@ AI based quiz management platform for creating and managing quizzes.
 # 💻 Coding Profile
 
 
-## 🔥 Codolio Stats
+## 🔥 Codolio Statistics
+
 
 <p align="center">
 
-⭐ C Score: 611+  
+⭐ C Score : 611+
 
-🌎 Global Rank: #24493  
+🌎 Global Rank : #24493
 
-🇮🇳 India Rank: #22527  
+🇮🇳 India Rank : #22527
 
-🏫 College Rank: #8  
+🏫 College Rank : #8
+
 
 </p>
 
 
-🔗 Codolio Profile:
+🔗 **Codolio Profile**
 
 https://codolio.com/profile/yashg1209
 
 
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 GitHub Activity
 
 
-<div align="center">
+<p align="center">
 
-![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-</div>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
 
 
 ---
@@ -209,6 +224,6 @@ https://codolio.com/profile/yashg1209
 
 ⭐ Thanks for visiting my profile ⭐
 
-**Code • Learn • Build • Grow 🚀**
+### Code • Learn • Build • Grow 🚀
 
 </div>
