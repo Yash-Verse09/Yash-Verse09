@@ -143,10 +143,19 @@ An interactive quiz platform that generates and manages quizzes using AI, with a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F2027?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-0F2027?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0F2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashg1209)
+### 📬 Contact
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F2027?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gupta-364190346/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-0F2027?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyash4376@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0F2027?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/JzTF6Trljo/)
+
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-0F2027?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/yashg1209)
+
+</div>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
