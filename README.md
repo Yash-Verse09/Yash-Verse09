@@ -80,7 +80,7 @@ A machine learning based web application that analyzes movie reviews and predict
 - Data visualization of review trends
 - Deployed and publicly accessible
 
-🔗 **Live Demo:** [yentiflix.example.com](#) *(replace with your actual deployment link)*
+🔗 **Live Demo:** [yentiflix.example.com](#) *( [https://fulfilling-commitment-production-bad8.up.railway.app/])*
 
 </td>
 <td width="50%" valign="top">
@@ -96,13 +96,11 @@ An interactive quiz platform that generates and manages quizzes using AI, with a
 - Dynamic quiz creation and scoring system
 - Relational database for users and results
 
-`Live Demo:` *add link here*
-
 </td>
 </tr>
 </table>
 
-> More projects on my [GitHub Repositories](https://github.com/yashg1209?tab=repositories) →
+> More projects on my [GitHub Repositories](https://github.com/Yash-Verse09?tab=repositories) →
 
 ---
 
