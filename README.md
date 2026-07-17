@@ -132,9 +132,6 @@ An interactive quiz platform that generates and manages quizzes using AI, with a
   Codolio does not currently expose a public embeddable stats/graph API.
   The image below is a placeholder card — replace the src with a Codolio-hosted
   chart/export image (or a screenshot you upload to this repo) once available.
--->
-<img src="https://via.placeholder.com/850x260/0F2027/FFFFFF?text=Codolio+Activity+Graph+%E2%80%94+Placeholder" alt="Codolio Activity Graph Placeholder" width="850"/>
-
 <br/>
 
 **[View Full Codolio Profile →](https://codolio.com/profile/yashg1209)**
@@ -156,17 +153,7 @@ An interactive quiz platform that generates and manages quizzes using AI, with a
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashg1209&theme=react-dark&bg_color=0F2027&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="850"/>
-
 </div>
-
-<details>
-<summary><b>🏅 GitHub Trophies</b></summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashg1209&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
-</details>
 
 ---
 
