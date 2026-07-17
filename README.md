@@ -1,225 +1,183 @@
-# <div align="center">Hi 👋, I'm Yash</div>
+<div align="center">
 
-<h2 align="center">
-🚀 Aspiring Software Developer | BCA Final Year Student | Java | Full Stack Development 
-</h2>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%2C%20I'm%20Yash&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-Building scalable applications, solving real-world problems and continuously improving my development skills.
-</p>
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=yashg1209&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
+[![Codolio](https://img.shields.io/badge/Codolio-1E3A5F?style=flat-square&logo=leetcode&logoColor=white)](https://codolio.com/profile/yashg1209)
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
+</div>
 
 ---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284126-9c6c6a4f-2f1b-4d2f-9a2f-5f7e1d5e4b8c.gif">
+### 👋 Introduction
 
-
-# 👨‍💻 About Me
-
-Hello! I'm **Yash**, a **BCA Final Year Student at ITM University, Gwalior** and an aspiring Software Developer.
-
-I am passionate about designing and developing software solutions using modern technologies. I enjoy building projects, solving programming problems and exploring new areas of technology.
-
-Currently focusing on:
-
-⭐ Java Development  
-⭐ Data Structures & Algorithms  
-⭐ Full Stack Web Development  
-⭐ Backend Development  
-
-
-I believe in **learning by building real-world projects** and continuously improving my problem-solving skills.
-
+I'm **Yash**, a final-year **BCA student at ITM University, Gwalior**, working toward becoming a **Software Developer** with a focus on **Java** and **Full Stack Development**. I enjoy building practical, real-world applications — from ML-powered web apps to full-stack platforms — and I'm continuously strengthening my foundation in core CS concepts and modern development tools.
 
 ---
 
-# 🛠️ Technical Skills
+### 🧭 About Me
 
-
-## 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-## 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
-## ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-
-
-## 🤖 Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
+- 🎓 Final Year BCA Student at **ITM University, Gwalior**
+- 💻 Focused on **Java Development** and **Full Stack Web Development**
+- 🧠 Strong grounding in **DSA, OOPs, DBMS, OS, and Computer Networks**
+- 🚀 Currently building projects around **ML integration** and **full stack applications**
+- 🌱 Actively expanding skills in backend architecture and system design
+- 🤝 Open to internship and entry-level SDE opportunities
 
 ---
 
-# 🚀 Featured Projects
+### 🛠️ Skills
 
+**Languages & Core Web**
 
-## 🎬 YentiFlix - Movie Review Analyzer ⭐
+![Java](https://img.shields.io/badge/Java-0F2027?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F2027?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F2027?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0F2027?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0F2027?style=for-the-badge&logo=css3&logoColor=white)
 
-A Machine Learning based web application that analyzes movie reviews and predicts sentiment using NLP techniques.
+**Frameworks & Libraries**
 
-### 🚀 Features
+![React](https://img.shields.io/badge/React-203A43?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-203A43?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-203A43?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-203A43?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-203A43?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-✅ Positive / Negative Sentiment Prediction  
-✅ Machine Learning Model Integration  
-✅ Movie Review Analysis  
-✅ Data Visualization Dashboard  
-✅ Deployed Web Application  
+**Data & ML**
 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-2C5364?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C5364?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2C5364?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛠 Tech Stack
+**Core CS Concepts**
 
-`Python` `Flask` `NLP` `Scikit-learn` `HTML` `CSS`
-
-
-🔗 **Live Demo:**  https://fulfilling-commitment-production-bad8.up.railway.app/
-
-
-
----
-
-## 📝 Quizify - AI Powered Quiz Platform ⭐
-
-An AI-powered quiz management platform designed to create interactive quizzes.
-
-### Features
-
-✅ AI Generated Questions  
-✅ Quiz Management  
-✅ User Interaction System  
-
-
-### Tech Stack
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Gemini API`
-
-
+`Data Structures & Algorithms` &nbsp;•&nbsp; `Object-Oriented Programming` &nbsp;•&nbsp; `DBMS` &nbsp;•&nbsp; `Operating Systems` &nbsp;•&nbsp; `Computer Networks`
 
 ---
 
-# 🏆 Certifications & Achievements
+### 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🥇 NPTEL Java Certification (Top 5%)
+**🎬 YentiFlix — Movie Review Analyzer**
 
-🐍 NPTEL Python Certification (Elite)
+A machine learning based web application that analyzes movie reviews and predicts sentiment using NLP techniques.
 
-🌐 Google Student Ambassador Program
+**Tech Stack:** Python · Flask · NLP · Scikit-learn · HTML · CSS
 
-🤖 AICTE Google for Developers AI/ML Virtual Internship
+**Key Features:**
+- Sentiment analysis on user-submitted reviews
+- Trained ML model integrated into a live web app
+- Data visualization of review trends
+- Deployed and publicly accessible
 
-🏆 IIT Roorkee Changethon Participant
+`Live Demo:` *add link here*
 
+</td>
+<td width="50%" valign="top">
 
+**🧩 Quizify — AI Powered Quiz Platform**
 
----
+An interactive quiz platform that generates and manages quizzes using AI, with a full backend for user and score management.
 
-# 💻 Coding Profile
+**Tech Stack:** HTML · CSS · JavaScript · PHP · MySQL · Gemini API
 
+**Key Features:**
+- AI-generated quiz questions via Gemini API
+- Dynamic quiz creation and scoring system
+- Relational database for users and results
 
-## 🔥 Codolio Statistics
+`Live Demo:` *add link here*
 
+</td>
+</tr>
+</table>
 
-<p align="center">
-
-⭐ C Score : 611+
-
-🌎 Global Rank : #24493
-
-🏫 College Rank : #8
-
-
-</p>
-
-
-🔗 **Codolio Profile**
-
-https://codolio.com/profile/yashg1209
-
-
-
----
-
-# 📈 GitHub Activity
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
+> More projects on my [GitHub Repositories](https://github.com/yashg1209?tab=repositories) →
 
 ---
 
-# 🤝 Connect With Me
+### 🏆 Certifications & Achievements
 
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-
-<a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-
-<a href="https://codolio.com/profile/yashg1209">
-<img src="https://img.shields.io/badge/Codolio-orange?style=for-the-badge">
-</a>
-
-</p>
-
+| Certification / Achievement | Detail |
+|---|---|
+| 🟦 NPTEL Java Certification | Top 5% |
+| 🟦 NPTEL Python Certification | Elite |
+| 🟦 Google Student Ambassador Program | Participant |
+| 🟦 AICTE – Google for Developers AI/ML | Virtual Internship |
+| 🟦 IIT Roorkee Changethon | Participant |
 
 ---
+
+### 📊 Coding Profile — Codolio
 
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://img.shields.io/badge/Codolio%20Score-611%2B-0e75b6?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Global%20Rank-%2324493-0e75b6?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/College%20Rank-%238-0e75b6?style=for-the-badge&labelColor=0F2027" />
 
-### Code • Learn • Build • Grow 🚀
+<br/><br/>
+
+<!--
+  Codolio does not currently expose a public embeddable stats/graph API.
+  The image below is a placeholder card — replace the src with a Codolio-hosted
+  chart/export image (or a screenshot you upload to this repo) once available.
+-->
+<img src="https://via.placeholder.com/850x260/0F2027/FFFFFF?text=Codolio+Activity+Graph+%E2%80%94+Placeholder" alt="Codolio Activity Graph Placeholder" width="850"/>
+
+<br/>
+
+**[View Full Codolio Profile →](https://codolio.com/profile/yashg1209)**
 
 </div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashg1209&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yashg1209&theme=dark&hide_border=true&background=0F2027&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashg1209&layout=compact&theme=dark&hide_border=true&bg_color=0F2027&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashg1209&theme=react-dark&bg_color=0F2027&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="850"/>
+
+</div>
+
+<details>
+<summary><b>🏅 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yashg1209&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
+</details>
+
+---
+
+### 📬 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F2027?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-0F2027?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0F2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashg1209)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
